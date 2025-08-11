@@ -12,6 +12,7 @@ const projects = [
     name: "Portfolio Website",
     img: portfolio,
     desc: "My personal portfolio built with React and Tailwind CSS showcasing about me,skills and projects.",
+    link: "https://github.com/samirtiwari020/portfolio",
   },
   {
     name: "Weather App",
@@ -23,24 +24,26 @@ const projects = [
     name: "Tic Tac Toe",
     img: tictactoe,
     desc: "A simple tic-tac-toe game built with React, Javascript and Tailwind CSS",
-    link: "https://github.com/samirtiwari020/tic-tac-toe",
+    link: "https://github.com/samirtiwari020/tic-tac-toe-react",
   },
   {
     name: "Rock Paper Scissors",
     img: rps,
     desc: "A Rock Paper Scissors game built with HTML, Tailwind CSS and Javascript",
+    link: "https://github.com/samirtiwari020/rock-paper-scissor",
   },
   {
     name: "Netflix-clone",
     img: netflix,
     desc: "A clone of the popular Netflix platform built with HTML and CSS.",
-    // link: "https://github.com/samirtiwari020/netflix-home-page-clone",
-    link: "https://netflix.com",
+    link: "https://github.com/samirtiwari020/netflix-clone",
+    
   },
   {
     name: "BMI Calculator",
     img: bmi,
     desc: "Calculate and track your Body Mass Index (BMI) with this simple tool.",
+    link: "https://github.com/samirtiwari020/bmi-calculator",
   },
 ];
 
