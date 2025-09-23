@@ -47,10 +47,10 @@ const About = () => {
               </thead>
               <tbody className="text-gray-300">
                 <tr className="hover:bg-gray-700 transition-colors">
-                  <td className="p-3 border border-gray-700">Class 10</td>
-                  <td className="p-3 border border-gray-700">Maharishi Vidya Mandir</td>
-                  <td className="p-3 border border-gray-700">97%</td>
-                  <td className="p-3 border border-gray-700">2021-2022</td>
+                  <td className="p-3 border border-gray-700">B.Tech (Electrical Engineering)</td>
+                  <td className="p-3 border border-gray-700">NIT Raipur</td>
+                  <td className="p-3 border border-gray-700">8.7</td>
+                  <td className="p-3 border border-gray-700">2023–2028</td>
                 </tr>
                 <tr className="hover:bg-gray-700 transition-colors">
                   <td className="p-3 border border-gray-700">Class 12</td>
@@ -59,11 +59,12 @@ const About = () => {
                   <td className="p-3 border border-gray-700">20223-2024</td>
                 </tr>
                 <tr className="hover:bg-gray-700 transition-colors">
-                  <td className="p-3 border border-gray-700">B.Tech (Electrical Engineering)</td>
-                  <td className="p-3 border border-gray-700">NIT Raipur</td>
-                  <td className="p-3 border border-gray-700">8.7</td>
-                  <td className="p-3 border border-gray-700">2023–2028</td>
+                  <td className="p-3 border border-gray-700">Class 10</td>
+                  <td className="p-3 border border-gray-700">Maharishi Vidya Mandir</td>
+                  <td className="p-3 border border-gray-700">97%</td>
+                  <td className="p-3 border border-gray-700">2021-2022</td>
                 </tr>
+                
               </tbody>
             </table>
           </div>

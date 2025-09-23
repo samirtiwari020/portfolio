@@ -44,15 +44,10 @@ function App() {
         </div>
 
         {/* contact */}
-        <div id='contact' >
+        <footer id='contact' >
           <Contact />
-        </div>
-
-        
-        {/* footer */}
-        <footer className='bg-gray-950 text-white p-4 text-center'>
-          &copy; Samir Tiwari. 
         </footer>
+
 
       </div>
     </>
