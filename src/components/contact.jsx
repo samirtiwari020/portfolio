@@ -106,8 +106,8 @@ const Contact = () => {
 
       {/* Bottom Footer */}
       <div className="border-t border-gray-700 mt-10 pt-6 text-center text-sm">
-        © {new Date().getFullYear()} Samir Tiwari. Made with ❤️ using React &
-        Tailwind CSS
+        © {new Date().getFullYear()} Samir Tiwari.
+        
         <div className="mt-3">
           <a href="#top" className="hover:text-white">
             ↑ Back to Top
