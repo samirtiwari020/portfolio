@@ -58,7 +58,7 @@ const Skills = () => {
 
   // Placeholder CodeChef stats (API not official)
   useEffect(() => {
-    setCcStats({ rating: "1468", maxRating: "1492", contests: "11" });
+    setCcStats({ rating: "1468", maxRating: "1492", contests: "13" });
   }, []);
 
   return (
@@ -142,7 +142,7 @@ const Skills = () => {
 
               {/* CodeChef */}
               <a
-                href="https://www.codechef.com/users/samir_020"
+                href="https://www.codechhef.com/users/samir_20"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-between bg-gray-900 px-5 py-4 rounded-lg hover:scale-105 transition-transform"
